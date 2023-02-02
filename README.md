@@ -1,2 +1,2 @@
 # Evolution-Of-Computer
-This is abasic ppt I made for fun. Because I Love Computers!
+This is a basic PPT I made for fun. Because I Love Computers!
